@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Repo is a blockchain-based decentralized marketplace for dataset trading, enabling users to securely upload, trade, and manage datasets. The platform combines blockchain technology with IPFS distributed storage to ensure data security and reliability.
+Repo is a decentralized dataset marketplace built on BNBCHAIN, enabling users to securely upload, trade, and manage datasets. The platform integrates blockchain technology with IPFS distributed storage to ensure data security and reliability.
 
 ## Core Features
 
